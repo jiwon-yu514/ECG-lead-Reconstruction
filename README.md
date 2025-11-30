@@ -37,8 +37,8 @@ PhysioNet에서 제공하는 두 공개 ECG 데이터셋을 사용.
   - 총 **10,000개 레코드**를 외부 검증에 사용
 
 > ⚠️ 본 연구에 사용된 모든 데이터세트는 공개적으로 이용 가능합니다. 다음 링크를 통해 접근하실 수 있습니다.
-> ﻿https://physionet.org/content/mimic-iv-ecg/1.0/<img width="975" height="30" alt="image" src="https://github.com/user-attachments/assets/2ca705eb-563e-4c77-a035-a155fb57f60a" />
-> ﻿https://physionet.org/content/ptb-xl/1.0.3/<img width="975" height="30" alt="image" src="https://github.com/user-attachments/assets/c010dce9-4e4d-4cc5-a44b-014d950814f7" />
+> ﻿https://physionet.org/content/mimic-iv-ecg/1.0/
+> ﻿https://physionet.org/content/ptb-xl/1.0.3/
 
 
 
